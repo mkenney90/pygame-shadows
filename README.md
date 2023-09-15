@@ -1,4 +1,3 @@
-![image](https://github.com/mkenney90/pygame-shadows/assets/54040993/29ac943f-3f37-4750-a3f3-61c79d20aec6)# pygame-shadows
 A simple application for generating dynamic shadows in Pygame
 
 I was working on a simple top-down perspective game in Pygame and I got the idea that adding line-of-sight shadows would add an interesting element.
